@@ -34,6 +34,14 @@
      </script>
    
     <style>
+      .ctabg{
+        background-size: 250% 100%;
+      }
+      @media screen and (min-width: 1024px) {
+  .ctaBg {
+    background-size: 100% 100%;
+  }
+      }
       .newFeatureCard {
         box-shadow: 2px 4px 9px 1px hsla(0, 0%, 0%, 0.05);
       }
@@ -1351,7 +1359,7 @@
       </div>
     </section>
     <section
-      class="relative bg-[url('Images/CTABg.svg')] h-full w-full bg-cover bg-no-repeat min-h-[510px] flex items-center"
+      class="relative bg-[url('Images/CTABg.svg')] h-full w-full bg-cover bg-no-repeat ctabg min-h-[880px] lg:min-h-[530px] flex items-center"
     >
       <div class="flex flex-row max-w-[1080px]   md:w-11/12 w-10/12 mx-auto space-x-20">
         <div>
