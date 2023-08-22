@@ -6,12 +6,9 @@ This project is a static website that emulates the appearance and behavior of th
 
 ## Features
 Razorpay Design Clone: The project focuses on replicating the visual elements of the original Razorpay home page, including the layout, colors, typography, and overall aesthetic.
-<br>
 Responsive Design: The website is designed to adapt seamlessly to different screen sizes and devices, ranging from desktops to tablets and mobile phones.
 
 ## Technologies Used
 HTML: Used to create the structural foundation of the webpage, organizing content and layout.
-<br>
 CSS: Employed to style the HTML elements and ensure the visual similarity to the Razorpay home page.
-<br>
 Tailwind CSS: Utilized to enhance the styling process by providing utility classes that streamline development and contribute to the responsive design.
