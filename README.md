@@ -13,5 +13,4 @@ This project is a static website that emulates the appearance and behavior of th
 **CSS**: Employed to style the HTML elements and ensure the visual similarity to the Razorpay home page.   
 **Tailwind CSS**: Utilized to enhance the styling process by providing utility classes that streamline development and contribute to the responsive design.
 
-## Website Link
-https://im-vedant.github.io/RazorPay_Clone/
+
